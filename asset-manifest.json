@@ -1,0 +1,16 @@
+{
+  "main.css": "/reactDeploy/static/css/main.7d1ac3fe.chunk.css",
+  "main.js": "/reactDeploy/static/js/main.2b70392e.chunk.js",
+  "main.js.map": "/reactDeploy/static/js/main.2b70392e.chunk.js.map",
+  "runtime~main.js": "/reactDeploy/static/js/runtime~main.a31f273e.js",
+  "runtime~main.js.map": "/reactDeploy/static/js/runtime~main.a31f273e.js.map",
+  "static/css/2.19128409.chunk.css": "/reactDeploy/static/css/2.19128409.chunk.css",
+  "static/js/2.86d16291.chunk.js": "/reactDeploy/static/js/2.86d16291.chunk.js",
+  "static/js/2.86d16291.chunk.js.map": "/reactDeploy/static/js/2.86d16291.chunk.js.map",
+  "index.html": "/reactDeploy/index.html",
+  "precache-manifest.7598894ae4ddbfba832b287ed7ed4411.js": "/reactDeploy/precache-manifest.7598894ae4ddbfba832b287ed7ed4411.js",
+  "service-worker.js": "/reactDeploy/service-worker.js",
+  "static/css/2.19128409.chunk.css.map": "/reactDeploy/static/css/2.19128409.chunk.css.map",
+  "static/css/main.7d1ac3fe.chunk.css.map": "/reactDeploy/static/css/main.7d1ac3fe.chunk.css.map",
+  "static/media/login-page-pic.png": "/reactDeploy/static/media/login-page-pic.642b6c12.png"
+}
